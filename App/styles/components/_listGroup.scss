@@ -1,0 +1,39 @@
+.video-list {
+    img{
+        max-width: 120px;
+        margin-right: 10px;
+    }
+
+    .media-heading{
+        font-size: 14px;
+        font-weight: bold;
+    }
+}
+
+.video-detail{
+    .details{
+        margin-top: 10px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        background-color: #fff;
+        box-shadow: 0.5px 1px 3px rgba(0,0,0,.2);
+    }
+
+    .title{
+        font-weight: bold;
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding: 10px;
+    }
+
+    .description{
+        font-size: 18px;
+        margin: 10px 0;
+        padding: 10px 15px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        background-color: #fff;
+        box-shadow: 0.5px 1px 3px rgba(0,0,0,.2);
+    }
+}

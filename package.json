@@ -1,0 +1,52 @@
+{
+  "name": "react-youtube-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "start": "node server.js",
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "*",
+    "express": "*",
+    "lodash": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router": "*",
+    "react-redux": "*",
+    "redux": "*",
+    "youtube-api-search": "*"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-plugin-transform-es2015-destructuring": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-stage-3": "*",
+    "css-loader": "*",
+    "expect": "*",
+    "foundation-sites": "*",
+    "html-webpack-plugin": "*",
+    "jquery": "*",
+    "karma": "*",
+    "karma-chrome-launcher": "*",
+    "karma-mocha": "*",
+    "karma-mocha-reporter": "*",
+    "karma-sourcemap-loader": "*",
+    "karma-webpack": "*",
+    "mocha": "*",
+    "node-sass": "*",
+    "react-addons-test-utils": "*",
+    "redux-thunk": "*",
+    "sass-loader": "*",
+    "script-loader": "*",
+    "style-loader": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  }
+}
